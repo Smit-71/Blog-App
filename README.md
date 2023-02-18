@@ -1,6 +1,6 @@
 # sampleproject
 
-A new Flutter project.
+A new Flutter project Blog App using Firebase.
 
 ## Getting Started
 
